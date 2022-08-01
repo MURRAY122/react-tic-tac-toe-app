@@ -10,8 +10,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Available Scripts](#available-scripts) -[Learn more](#learn-more)
+- [Available Scripts](#available-scripts)
+  -[Learn more](#learn-more)
 - [Author](#author)
+
+## Overview
 
 ### Screenshot
 
@@ -31,8 +34,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Useful resources
 
-- [React](https://reactjs.org/)
-- [App Tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [React](https://reactjs.org/) - Website of React.js
+- [App Tutorial](https://reactjs.org/tutorial/tutorial.html) - The tutorial for this app.
 - [Create React App](https://github.com/facebook/create-react-app)
 - [w3school](https://www.w3schools.com/) - Just always found it useful, recommend for anyone just starting out.
 - [Google Fonts](https://fonts.google.com/) - For the fonts used.
