@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Available Scripts](#available-scripts)
-  -[Learn more](#learn-more)
+  - [Learn more](#learn-more)
 - [Author](#author)
 
 ## Overview
