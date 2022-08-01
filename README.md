@@ -1,6 +1,41 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe React App By Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The additional features of the app/tutorial have been implemented and custom CSS added. This is my first react app, so any feedback or suggestions would be great.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Available Scripts](#available-scripts) -[Learn more](#learn-more)
+- [Author](#author)
+
+### Screenshot
+
+![](/public/Screenshot.png?raw=True)
+
+### Links
+
+- Solution URL: [Here](https://murray122.github.io/react-tic-tac-toe-app/)
+
+## My Process
+
+### Built with
+
+- HTML
+- CSS
+- React.js
+
+### Useful resources
+
+- [React](https://reactjs.org/)
+- [App Tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [w3school](https://www.w3schools.com/) - Just always found it useful, recommend for anyone just starting out.
+- [Google Fonts](https://fonts.google.com/) - For the fonts used.
 
 ## Available Scripts
 
@@ -68,3 +103,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+
+- Website - [Michael M](https://mryanmurray.herokuapp.com/)
+- Frontend Mentor - [@MURRAY122](https://www.frontendmentor.io/profile/MURRAY122)
