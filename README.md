@@ -10,11 +10,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Available Scripts](#available-scripts) 
+- [Available Scripts](#available-scripts)
   -[Learn more](#learn-more)
 - [Author](#author)
 
-#Overview
+## Overview
 
 ### Screenshot
 
